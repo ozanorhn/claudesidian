@@ -21,6 +21,10 @@ scripts/*_local.sh
 # macOS files
 .DS_Store
 
+# Obsidian workspace state (device-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
 # Node modules - always exclude from repo
 node_modules/
 .node_modules/
