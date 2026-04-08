@@ -1,0 +1,41 @@
+---
+titel: Dashboard
+tags: [dashboard]
+---
+
+# Dashboard
+
+## Inbox
+```dataview
+LIST
+FROM "00_Inbox"
+WHERE file.name != "Dashboard" AND file.name != "Inbox" AND file.name != "Welcome" AND file.name != "BEISPIEL - Gedanken erfassen"
+SORT file.mtime DESC
+```
+
+## Offene Tasks – Alle Projekte
+```dataview
+TASK
+FROM "01_Projects"
+WHERE !completed
+SORT file.name ASC
+```
+
+## Aktive Projekte
+```dataview
+TABLE status, aktualisiert
+FROM "01_Projects"
+WHERE type = "moc" AND contains(file.path, "01_Projects")
+SORT file.folder ASC
+```
+
+## Kürzlich bearbeitet
+```dataview
+LIST
+FROM ""
+WHERE file.mtime >= date(today) - dur(7 days)
+AND !contains(file.path, "06_Metadata")
+AND !contains(file.path, "05_Attachments")
+SORT file.mtime DESC
+LIMIT 10
+```
