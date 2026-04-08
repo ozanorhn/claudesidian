@@ -1,32 +1,36 @@
-# {{title}}
-
-**Source**: [URL or reference]
-**Date**: {{date}}
-**Tags**: #research
-
-## Summary
-<!-- Key points in 2-3 sentences -->
-
-## Key Insights
-- 
-- 
-- 
-
-## Notable Quotes
-> 
-
-## Questions Raised
-- 
-- 
-
-## Connections
-<!-- How does this relate to other notes? -->
-- See: [[related note]]
-- Contradicts: [[other perspective]]
-- Builds on: [[foundation concept]]
-
-## Action Items
-- [ ] 
+# <% tp.file.title %>
 
 ---
-*For synthesis: "Review all research notes in [folder] and identify patterns"*
+titel: <% tp.file.title %>
+datum: <% tp.date.now("YYYY-MM-DD") %>
+quelle:
+tags: [recherche]
+---
+
+**Quelle**: [URL oder Referenz]
+**Datum**: <% tp.date.now("YYYY-MM-DD") %>
+
+## Zusammenfassung
+<!-- Hauptpunkte in 2-3 Sätzen -->
+
+## Wichtigste Erkenntnisse
+-
+-
+-
+
+## Bemerkenswerte Zitate
+>
+
+## Aufgeworfene Fragen
+-
+-
+
+## Verbindungen
+- Siehe: [[verwandte Notiz]]
+- Baut auf: [[Grundlagenkonzept]]
+
+## Aufgaben
+- [ ]
+
+---
+*Für Synthese: "Überprüfe alle Recherche-Notizen in [Ordner] und identifiziere Muster"*

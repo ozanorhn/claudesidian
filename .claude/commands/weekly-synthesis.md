@@ -96,6 +96,97 @@ Create a weekly synthesis note:
 - Missing connections: [identified]
 ```
 
+## Gym-Analyse (Fett to Fit)
+
+Führe am Ende der Weekly Synthesis immer auch eine Gym-Wochenanalyse durch:
+
+### Schritt 1 – Session-Dateien der Woche laden
+
+Lese alle Tracking-Dateien der aktuellen Woche aus `01_Projects/Fett to Fit/Tracking/` (Push, Pull, Legs – keine Wochenanalysen). Lese auch `01_Projects/Fett to Fit/Training/PPL Trainingsplan.md`.
+
+### Schritt 2 – Wochenanalyse ausgeben
+
+```
+## 🏋️ Gym-Woche W[N]
+
+### Sessions dieser Woche
+- Push ([Datum]): [kurze Einschätzung]
+- Pull ([Datum]): [kurze Einschätzung]
+- Legs ([Datum]): [kurze Einschätzung]
+
+### Progression diese Woche
+| Übung | Letzte Woche | Diese Woche | Trend |
+|-------|-------------|-------------|-------|
+| [Übung] | [kg × Wdh.] | [kg × Wdh.] | 🔼 / ✅ / ⚠️ |
+
+### Stärken der Woche
+- [Was gut lief]
+
+### Schwachstellen & Fokus nächste Woche
+- [Was zu verbessern ist + konkreter Tipp]
+
+### Vorschläge für W[N+1]
+- [Übung]: [spezifischer Tipp]
+```
+
+### Schritt 3 – Wochenanalyse-Datei erstellen
+
+Erstelle: `01_Projects/Fett to Fit/Tracking/[DATUM-SONNTAG] - Wochenanalyse W[N].md`
+
+Frontmatter:
+```yaml
+---
+datum: YYYY-MM-DD
+tags: [training, wochenanalyse]
+woche: N
+---
+```
+
+Inhalt: vollständige Analyse aus Schritt 2 plus Abschnitt „Nächste Woche" mit konkreten Gewichtszielen je Übung.
+
+## Rauchfrei-Analyse
+
+Führe am Ende der Weekly Synthesis immer auch eine Rauchfrei-Wochenanalyse durch, solange das Projekt aktiv ist.
+
+### Schritt 1 – Fortschritt laden
+
+Lese `01_Projects/Rauchfrei/Fortschritt.md` und `01_Projects/Rauchfrei/Trigger-Analyse.md`.
+
+### Schritt 2 – Analyse ausgeben
+
+```
+## 🚭 Rauchfrei-Woche W[N]
+
+### Statistik der Woche
+| Datum | Tag # | Geraucht? | Craving-Stärke | Notiz |
+|-------|-------|-----------|---------------|-------|
+[bestehende Einträge aus der Tabelle übernehmen]
+
+### Auswertung
+- Rauchfreie Tage: [X von 7]
+- Durchschnittliche Craving-Stärke: [X]
+- Schwierigster Tag: [Datum + warum]
+- Stärkster Trigger diese Woche: [aus Einträgen ableiten]
+
+### Was gut funktioniert hat
+- [konkrete Beobachtung]
+
+### Was schwierig war
+- [konkrete Beobachtung + Verbesserungsvorschlag]
+
+### Nächste Woche
+- Fokus-Trigger: [der schwierigste Trigger]
+- Konkrete Maßnahme: [was ändern/beibehalten]
+```
+
+### Schritt 3 – Fortschritt-Datei aktualisieren
+
+Trage die Wochenanalyse in `01_Projects/Rauchfrei/Fortschritt.md` unter `## Wochenanalyse` ein.
+
+Füge danach die nächsten 7 Tage als leere Tabellenzeilen an (Datum, Tag-Nummer fortlaufend, Rest leer).
+
+Prüfe außerdem welche Meilensteine erreicht wurden und setze die entsprechenden Checkboxen auf `[x]`.
+
 ## Follow-up Actions
 
 - Archive completed projects

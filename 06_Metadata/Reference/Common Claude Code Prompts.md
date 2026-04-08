@@ -1,170 +1,170 @@
-# Common Claude Code Prompts
+# Nützliche Claude-Prompts
 
-A collection of useful prompts for working with Claude Code in your vault.
+Eine Sammlung hilfreicher Prompts für die Arbeit mit Claude in deinem Vault.
 
-## Starting Work
+## Session starten
 
-### Beginning a Session
+### Beginn einer Session
 ```
-I'm starting work for today. 
-Can you review what I was working on yesterday 
-and help me pick up where I left off?
-```
-
-### Setting the Mode
-```
-I'm in thinking mode, not writing mode.
-Please help me explore [topic] by asking questions
-and searching for relevant notes.
+Ich fange heute mit der Arbeit an.
+Kannst du überprüfen, woran ich gestern gearbeitet habe,
+und mir helfen, dort weiterzumachen?
 ```
 
-## Research & Synthesis
-
-### Finding Connections
+### Modus setzen
 ```
-Search my vault for anything related to [topic].
-What patterns or connections do you see?
-```
-
-### Synthesizing a Project
-```
-Review all notes in [project folder].
-Create a synthesis of the key themes, insights, and open questions.
+Ich bin im Denkmodus, nicht im Schreibmodus.
+Bitte hilf mir, [Thema] zu erkunden, indem du Fragen stellst
+und nach relevanten Notizen suchst.
 ```
 
-### Weekly Review
+## Recherche & Synthese
+
+### Verbindungen finden
 ```
-Look at all notes created this week.
-What are the main themes? 
-What connections exist between different projects?
+Durchsuche mein Vault nach allem zu [Thema].
+Welche Muster oder Verbindungen siehst du?
 ```
 
-## Organization
-
-### Processing Inbox
+### Projekt zusammenfassen
 ```
-Review items in 00_Inbox.
-Suggest where each should be moved based on PARA method.
-Which items could be combined or linked?
+Überprüfe alle Notizen in [Projektordner].
+Erstelle eine Synthese der Hauptthemen, Erkenntnisse und offenen Fragen.
 ```
 
-### Finding Orphans
+### Wöchentlicher Rückblick
 ```
-Find notes that aren't linked to any other notes.
-Suggest potential connections.
-```
-
-### Cleaning Attachments
-```
-Review files in 05_Attachments.
-Which ones aren't referenced in any notes?
-Which could be better named?
+Schau dir alle diese Woche erstellten Notizen an.
+Was sind die Hauptthemen?
+Welche Verbindungen gibt es zwischen verschiedenen Projekten?
 ```
 
-## Writing & Creation
+## Organisation
 
-### Moving to Writing Mode
+### Eingang verarbeiten
 ```
-I'm ready to move from thinking to writing mode.
-Based on our research in [project], 
-help me create an outline for [deliverable].
-```
-
-### Improving a Draft
-```
-Review [document].
-Don't rewrite it, but give me specific feedback on:
-- Structure and flow
-- Gaps in logic or evidence
-- Areas that need clarification
+Überprüfe Items in 00_Inbox.
+Schlage vor, wohin jedes basierend auf der PARA-Methode verschoben werden soll.
+Welche Items könnten kombiniert oder verlinkt werden?
 ```
 
-## Learning & Development
-
-### Exploring a New Topic
+### Verwaiste Notizen finden
 ```
-I want to learn about [topic].
-Start by searching my vault for any existing knowledge.
-Then help me identify what I need to research.
+Finde Notizen, die mit keiner anderen Notiz verlinkt sind.
+Schlage mögliche Verbindungen vor.
 ```
 
-### Making an Argument
+### Anhänge aufräumen
 ```
-I'm trying to argue that [thesis].
-Search my notes for supporting evidence.
-What counterarguments should I address?
-```
-
-## Project Management
-
-### Project Status
-```
-Review the project in [folder].
-What's the current status?
-What are the next actions needed?
+Überprüfe Dateien in 05_Attachments.
+Welche werden in keiner Notiz referenziert?
+Welche könnten besser benannt werden?
 ```
 
-### Creating a Retrospective
+## Schreiben & Erstellen
+
+### In Schreibmodus wechseln
 ```
-[Project] is now complete.
-Review all notes and create a retrospective covering:
-- What was accomplished
-- Key learnings
-- What to do differently next time
+Ich bin bereit, vom Denken zum Schreiben zu wechseln.
+Basierend auf unserer Recherche in [Projekt],
+hilf mir, eine Gliederung für [Ergebnis] zu erstellen.
 ```
 
-## Daily Operations
-
-### Morning Review
+### Entwurf verbessern
 ```
-Good morning. Show me:
-- Any notes modified yesterday
-- Open tasks or questions
-- What should I focus on today?
-```
-
-### End of Day Wrap-up
-```
-End of day review:
-- What did I accomplish today?
-- What questions or ideas emerged?
-- What should I prioritize tomorrow?
+Überprüfe [Dokument].
+Schreibe es nicht um, aber gib mir konkretes Feedback zu:
+- Struktur und Fluss
+- Logik- oder Beweislücken
+- Bereiche, die Klarstellung benötigen
 ```
 
-## Advanced Techniques
+## Lernen & Entwicklung
 
-### Cross-Project Analysis
+### Neues Thema erkunden
 ```
-Compare insights from [Project A] and [Project B].
-What patterns exist across both?
-What could each learn from the other?
-```
-
-### Knowledge Gaps
-```
-Analyze my notes on [topic].
-What aspects am I missing?
-What questions haven't I asked?
+Ich möchte über [Thema] lernen.
+Beginne damit, mein Vault nach vorhandenem Wissen zu durchsuchen.
+Hilf mir dann zu identifizieren, was ich recherchieren muss.
 ```
 
-### Idea Development
+### Argument entwickeln
 ```
-I have this rough idea: [idea]
-Search for related concepts in my vault.
-Help me develop this into something more concrete.
+Ich versuche zu argumentieren, dass [These].
+Durchsuche meine Notizen nach unterstützenden Belegen.
+Welche Gegenargumente sollte ich ansprechen?
 ```
 
-## Tips for Effective Prompts
+## Projektmanagement
 
-1. **Be specific about mode** (thinking vs writing)
-2. **Reference specific folders** when relevant
-3. **Ask for questions**, not just answers
-4. **Request synthesis**, not just search
-5. **Iterate freely** - have a conversation
+### Projektstatus
+```
+Überprüfe das Projekt in [Ordner].
+Was ist der aktuelle Status?
+Was sind die nächsten erforderlichen Schritte?
+```
 
-## Remember
+### Retrospektive erstellen
+```
+[Projekt] ist jetzt abgeschlossen.
+Überprüfe alle Notizen und erstelle eine Retrospektive mit:
+- Was erreicht wurde
+- Wichtigste Lernpunkte
+- Was nächstes Mal anders machen
+```
 
-- Claude Code has access to your entire vault
-- It can create, edit, and organize files
-- Use it as a thinking partner, not just a tool
-- The best prompts emerge from your specific needs
+## Tägliche Abläufe
+
+### Morgenüberblick
+```
+Guten Morgen. Zeig mir:
+- Notizen, die gestern geändert wurden
+- Offene Aufgaben oder Fragen
+- Worauf sollte ich mich heute konzentrieren?
+```
+
+### Tagesabschluss
+```
+Tagesabschluss-Review:
+- Was habe ich heute erreicht?
+- Welche Fragen oder Ideen sind aufgetaucht?
+- Was sollte ich morgen priorisieren?
+```
+
+## Fortgeschrittene Techniken
+
+### Projekt-übergreifende Analyse
+```
+Vergleiche Erkenntnisse aus [Projekt A] und [Projekt B].
+Welche Muster gibt es in beiden?
+Was könnte jedes vom anderen lernen?
+```
+
+### Wissenslücken
+```
+Analysiere meine Notizen zu [Thema].
+Welche Aspekte fehlen mir?
+Welche Fragen habe ich noch nicht gestellt?
+```
+
+### Idee entwickeln
+```
+Ich habe diese grobe Idee: [Idee]
+Suche nach verwandten Konzepten in meinem Vault.
+Hilf mir, dies zu etwas Konkreterem auszubauen.
+```
+
+## Tipps für effektive Prompts
+
+1. **Modus angeben** (Denken vs. Schreiben)
+2. **Spezifische Ordner referenzieren** wenn relevant
+3. **Nach Fragen fragen**, nicht nur nach Antworten
+4. **Synthese verlangen**, nicht nur Suche
+5. **Frei iterieren** – führe ein Gespräch
+
+## Denk daran
+
+- Claude hat Zugang zu deinem gesamten Vault
+- Es kann Dateien erstellen, bearbeiten und organisieren
+- Nutze es als Denkpartner, nicht nur als Werkzeug
+- Die besten Prompts entstehen aus deinen spezifischen Bedürfnissen

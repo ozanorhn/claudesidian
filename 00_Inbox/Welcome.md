@@ -1,33 +1,33 @@
-# Welcome to Your AI-Powered Second Brain
+# Willkommen in deinem KI-gestützten zweiten Gehirn
 
-This is your Inbox - a temporary landing zone for new ideas, quick captures, and daily thoughts.
+Das ist dein Eingang – ein temporärer Landeplatz für neue Ideen, schnelle Erfassungen und tägliche Gedanken.
 
-## Your First Steps
+## Erste Schritte
 
-1. **Start Claude Code** in this directory
-2. **Tell it you're in thinking mode**: "I'm exploring [topic] in thinking mode"
-3. **Let it search and ask questions** to help you think
-4. **Capture insights** as you go
+1. **Claude Code starten** in diesem Verzeichnis
+2. **Denkmodus mitteilen**: "Ich erkunde [Thema] im Denkmodus"
+3. **Fragen stellen und suchen lassen** um besser nachzudenken
+4. **Erkenntnisse festhalten** während du voranschreitest
 
-## Quick Tips
+## Schnelle Tipps
 
-- Don't worry about organization initially - just capture
-- Process your inbox weekly (move items to Projects/Areas/Resources)
-- Use Daily Notes for stream-of-consciousness capture
-- Let Claude Code help you find connections
+- Mach dir anfangs keine Sorgen um Organisation – einfach erfassen
+- Eingang wöchentlich verarbeiten (Items nach Projekte/Bereiche/Ressourcen verschieben)
+- Tagesnotizen für freies Denken und Schreiben nutzen
+- Claude Code helfen lassen, Verbindungen zu finden
 
-## Try This Now
+## Jetzt ausprobieren
 
-Ask Claude Code:
+Frag Claude Code:
 ```
-I'm new to this vault. Can you help me understand 
-how to use you as a thinking partner? 
-Let's explore a topic I'm curious about.
+Ich bin neu in diesem Vault. Kannst du mir helfen zu verstehen,
+wie ich dich als Denkpartner nutzen kann?
+Lass uns ein Thema erkunden, das mich interessiert.
 ```
 
-## Remember
+## Denk daran
 
-The goal isn't to create perfect notes - it's to enhance your thinking. This system grows more valuable over time as you add more notes and Claude Code helps you discover connections you didn't see before.
+Das Ziel ist nicht, perfekte Notizen zu erstellen – es geht darum, dein Denken zu verbessern. Dieses System wird mit der Zeit wertvoller, je mehr Notizen du hinzufügst und Claude Code dir hilft, Verbindungen zu entdecken, die du vorher nicht gesehen hast.
 
 ---
-*Move this to Archive once you're comfortable with the system*
+*Verschiebe diese Notiz ins Archiv, sobald du dich mit dem System vertraut gemacht hast*

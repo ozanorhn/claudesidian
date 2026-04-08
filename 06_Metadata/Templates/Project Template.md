@@ -1,40 +1,42 @@
-# {{title}}
-
-## Project Overview
-**Start Date**: {{date}}
-**Target Completion**: 
-**Status**: Active
-
-## Objectives
-- [ ] 
-- [ ] 
-- [ ] 
-
-## Context
-<!-- Why this project? What problem does it solve? -->
-
-## Success Criteria
-<!-- How will we know this is complete? -->
-
-## Key Resources
-<!-- Links to relevant notes, documents, people -->
-
-## Progress Log
-<!-- Claude Code will help maintain this -->
-
-### {{date}} - Project Initiated
-- Set up project structure
-- Initial research phase
-
-## Open Questions
-<!-- Track what we need to figure out -->
-- 
-- 
-
-## Next Actions
-<!-- Immediate next steps -->
-- [ ] 
-- [ ] 
+# <% tp.file.title %>
 
 ---
-*Using Claude Code? Say: "I'm working on {{title}} in thinking mode. Let's explore."*
+titel: <% tp.file.title %>
+erstellt: <% tp.date.now("YYYY-MM-DD") %>
+status: aktiv
+tags: [projekt]
+---
+
+## Projektübersicht
+**Startdatum**: <% tp.date.now("YYYY-MM-DD") %>
+**Geplanter Abschluss**:
+**Status**: Aktiv
+
+## Ziele
+- [ ]
+- [ ]
+- [ ]
+
+## Kontext
+<!-- Warum dieses Projekt? Welches Problem löst es? -->
+
+## Erfolgskriterien
+<!-- Woran erkennen wir, dass es abgeschlossen ist? -->
+
+## Wichtige Ressourcen
+<!-- Links zu relevanten Notizen, Dokumenten, Personen -->
+
+## Fortschrittsprotokoll
+
+### <% tp.date.now("YYYY-MM-DD") %> – Projekt gestartet
+- Projektstruktur eingerichtet
+
+## Offene Fragen
+-
+
+## Nächste Schritte
+- [ ]
+- [ ]
+
+---
+*Mit Claude: "Ich arbeite an <% tp.file.title %> im Denkmodus. Lass uns erkunden."*

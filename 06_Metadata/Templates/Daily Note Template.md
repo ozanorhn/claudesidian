@@ -1,24 +1,29 @@
-# {{date:YYYY-MM-DD}}
+---
+datum: <% tp.date.now("YYYY-MM-DD") %>
+tags: [tagesnotiz]
+---
 
-## Capture
-<!-- Quick thoughts, links, ideas throughout the day -->
-- 
+# <% tp.date.now("dddd, DD. MMMM YYYY", 0, "de") %>
 
-## Questions
-<!-- What am I curious about today? -->
-- 
+## Erfassen
+<!-- Schnelle Gedanken, Links, Ideen über den Tag -->
+-
 
-## Insights
-<!-- What did I learn or realize? -->
-- 
+## Fragen
+<!-- Was bin ich heute neugierig auf? -->
+-
 
-## Connections
-<!-- Links to other notes or ideas -->
-- 
+## Erkenntnisse
+<!-- Was habe ich gelernt oder erkannt? -->
+-
 
-## For Tomorrow
-<!-- What needs follow-up? -->
-- 
+## Verbindungen
+<!-- Links zu anderen Notizen oder Ideen -->
+-
+
+## Für morgen
+<!-- Was braucht Nachverfolgung? -->
+-
 
 ---
-*End of day: Ask Claude Code to review and find connections*
+*Tagesabschluss: Claude bitten, zu überprüfen und Verbindungen zu finden*
