@@ -17,11 +17,14 @@ tags: [projekt, hochzeit, persönlich]
 | **Verlobungsfeier** | 19. September 2026 |
 | **Hochzeit** | 2. Oktober 2027 |
 
+## Finanzierung
+
+Kein festes Budget. Kosten werden laufend aus den monatlichen variablen Ausgaben bezahlt – gemeinsam mit den Eltern, jeweils wenn etwas anfällt.
+
 ## Unterordner
 
 - `Research/` – Inspiration, Venues, Dienstleister
 - `Checklisten/` – Aufgaben und Meilensteine
-- `Budget/` – Kostenübersicht → [[Budget/Hochzeit Budget|Budget-Übersicht]]
 
 ## Hochzeitstyp
 

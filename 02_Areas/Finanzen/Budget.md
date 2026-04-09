@@ -2,7 +2,7 @@
 title: Budget & Fixkosten
 typ: finanzen
 erstellt: 2026-03-29
-aktualisiert: 2026-03-29
+aktualisiert: 2026-04-09
 tags: [finanzen, budget, fixkosten]
 ---
 
@@ -18,28 +18,34 @@ tags: [finanzen, budget, fixkosten]
 
 | Posten | Kategorie | Betrag |
 |---|---|---|
-| Bausparvertrag | Sparen | 60,00 € |
-| Badenia | Versicherung/Sparen | 47,39 € |
-| O2 | Kommunikation | 75,80 € |
+| Scalable Capital | Investieren | 250,00 € |
+| Bauspardarlehen (Badenia) | Kredit | 96,82 € |
+| Bausparvertrag (Badenia) | Sparen → Immobilie | 60,00 € |
+| Generali (Riester) | Altersvorsorge | 50,00 € |
+| O2 | Kommunikation | 45,78 € |
 | FitX | Sport | 24,00 € |
 | Claude | Software | 22,00 € |
 | Netflix | Unterhaltung | 14,00 € |
-| Konsors Finanz | Kredit | 10,00 € |
-| AXA Versicherung | Versicherung | 9,00 € |
-| Scalable Capital | Investieren | 250,00 € |
-| **Gesamt** | | **512,19 €** |
+| Konsors Finanz | Kredit (Tablet) | 10,00 € |
+| AXA | Hundeversicherung | 9,00 € |
+| **Gesamt** | | **581,60 €** |
+
+> [!warning] Generali Riester – ausstehende Aktion
+> Beitragsfrei stellen: **0221-3395-7007** anrufen. Danach diese Zeile + Betrag entfernen.
+> → [[Generali-Riester]]
 
 ## Übersicht
 
 | | Betrag |
 |---|---|
 | Nettoeinkommen | 2.224,31 € |
-| − Fixkosten & Sparen | 512,19 € |
-| **Frei verfügbar** | **1.712,12 €** |
+| − Fixkosten & Sparen | 581,60 € |
+| **Frei verfügbar** | **1.642,71 €** |
 
 > [!success] Finanzübersicht
-> Keine Miete, keine weiteren Kosten. 1.712,12 € frei verfügbar pro Monat.
+> Keine Miete, keine weiteren Kosten. 1.642,71 € frei verfügbar pro Monat.
 
 ## Verwandte Bereiche
 
 - [[02_Areas/Gesundheit]] – FitX-Mitgliedschaft
+- [[Vermögensübersicht]] – Gesamtbild

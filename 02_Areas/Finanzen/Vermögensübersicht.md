@@ -8,7 +8,7 @@ tags: [finanzen, übersicht, vermögen]
 
 # Vermögensübersicht
 
-Stand: **2026-04-08**
+Stand: **2026-04-09**
 
 > [!important] Zwei getrennte Welten
 > **Langfristiger Vermögensaufbau** läuft über **Scalable Capital** (ETF-Strategie).
@@ -17,12 +17,32 @@ Stand: **2026-04-08**
 
 ## Gesamtvermögen
 
-| Kategorie | Broker | Horizont | Betrag |
-|-----------|--------|----------|-------:|
-| ETF-Portfolio | Scalable | **langfristig** (20+ Jahre) | 1.839 € |
-| Notgroschen (Cash) | Trade Republic | jederzeit verfügbar | 8.270,72 € |
-| Einzelaktien / Gold / Derivate | Trade Republic | **kurzfristig** | 1.193 € |
-| **Gesamt** | | | **~11.303 €** |
+### Aktiva
+
+| Kategorie | Konto | Horizont | Betrag |
+|-----------|-------|----------|-------:|
+| ETF-Portfolio | Scalable | langfristig (20+ J.) | 1.839 € |
+| Cash (Notgroschen + Immobilien-EK) | Trade Republic | jederzeit | 8.271 € |
+| Einzelaktien / Gold / Derivate | Trade Republic | kurzfristig | 1.193 € |
+| Riester-Rentenversicherung | Generali | bis 2068 | 900 € |
+| Bauspar-Guthaben (→ Immobilien-Darlehen 2,85 %) | Badenia | mittelfristig | 1.420 € |
+| **Gesamt Aktiva** | | | **~13.623 €** |
+
+### Verbindlichkeiten
+
+| Kategorie | Konto | Betrag |
+|-----------|-------|-------:|
+| Bauspardarlehen | Badenia | −5.813 € |
+| Konsors Finanz | Kredit (Tablet, ~10 €/M) | ? € |
+| **Gesamt Verbindlichkeiten** | | **≥ −5.813 €** |
+
+### Nettovermögen
+
+| | Betrag |
+|---|---:|
+| Aktiva | ~13.623 € |
+| Verbindlichkeiten | ≥ −5.813 € |
+| **Nettovermögen** | **~7.810 €** |
 
 ---
 
@@ -71,13 +91,14 @@ Notgroschen + kurzfristige Einzelinvestments / taktische Trades – **getrennt**
 | | Betrag |
 |---|---:|
 | Nettoeinkommen | 2.224,31 € |
-| Fixkosten (inkl. Sparen) | −512,19 € |
-| **Frei verfügbar** | **1.712,12 €** |
+| Fixkosten (inkl. Sparen) | −581,60 € |
+| **Frei verfügbar** | **1.642,71 €** |
 
-Davon automatisiert gespart:
+Davon automatisiert gespart/getilgt:
 - Scalable ETF-Sparplan: 250 €/Monat
-- Bausparvertrag: 60 €/Monat
-- Badenia: 47,39 €/Monat
+- Bausparvertrag (Badenia, → Immobilie): 60 €/Monat
+- Bauspardarlehen (Badenia, Tilgung): 96,82 €/Monat
+- Generali Riester: 50 €/Monat
 
 ---
 
@@ -87,4 +108,5 @@ Davon automatisiert gespart:
 - [[Scalable-Portfolio]] – ETF-Depot
 - [[ETF-Strategie]] – 2-ETF 80/20 Begründung
 - [[Trade-Republic-Portfolio]] – Einzelaktien & Notgroschen
+- [[Generali-Riester]] – Riester beitragsfrei, Wohn-Riester-Option
 - [[Finanzen]] – Bereichs-Hub

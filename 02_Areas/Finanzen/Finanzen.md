@@ -15,5 +15,6 @@ Laufender Verantwortungsbereich ohne Enddatum.
 - Budget & Ausgaben → [[Budget]]
 - ETF-Investitionen → [[Scalable-Portfolio]] | [[ETF-Strategie]]
 - Einzelinvestments & Notgroschen → [[Trade-Republic-Portfolio]]
-- Sparziele
-- Versicherungen
+- Altersvorsorge → [[Generali-Riester]] (beitragsfrei)
+- Immobilienfinanzierung → [[Generali-Riester]] (Wohn-Riester) | Badenia Bauspar (→ [[Vermögensübersicht]])
+- Versicherungen: AXA (Hund), Eltern-Haftpflicht (prüfen!), BU (ab April 2027)
