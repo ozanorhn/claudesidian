@@ -11,10 +11,37 @@ tags: [projekt, fitness, gesundheit]
 
 ## Ziel
 
-Körperliche Transformation – Fett abbauen, Muskeln aufbauen.
+Körperliche Transformation – athletischen Körper aufbauen (Muskeln + Fettabbau).
 
 **Hauptmotivation:** Bis zur **Verlobungsfeier am 19.09.2026** in Top-Form sein.
 Das sind ~**24 Wochen** ab 30.03.2026.
+
+## Ausgangswerte
+
+| Kennzahl | Wert | Datum |
+|----------|------|-------|
+| Gewicht | 94 kg | 30.03.2026 |
+| Größe | 177 cm | – |
+| Körperfett | – | – |
+| Brust | – | – |
+| Taille | – | – |
+| Hüfte | – | – |
+| Arme (L/R) | – | – |
+
+## Ernährungsziel
+
+**Ziel:** –500 kcal/Tag → ~0,5 kg Fettabbau/Woche
+
+| Makro | Täglich |
+|-------|---------|
+| Kalorien | **2.400 kcal** |
+| Protein | **190 g** |
+| Kohlenhydrate | **220 g** |
+| Fett | **84 g** |
+
+- Gleiche Makros an Trainings- und Ruhetagen
+- Kalorien tracken ab sofort (MyFitnessPal o.ä.)
+- Kontrollgewicht: **jeden Montag morgens, nüchtern**
 
 ## Training
 

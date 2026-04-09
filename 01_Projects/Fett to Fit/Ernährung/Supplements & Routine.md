@@ -8,20 +8,19 @@ status: aktiv
 
 ## Supplement-Stack
 
-### Morgens (nüchtern / zum Frühstück)
-| Supplement | Dosis | Zweck |
-|------------|-------|-------|
-| ESN Ultrapure Kreatin | 5g | Kraft + Muskelaufbau |
-| ESN Omega-3 | nach Packung | Entzündungshemmung, Herzgesundheit |
-| Mivolis Omega-3 1000 (DM) | nach Packung | Omega-3 Versorgung |
-| Doppelherz Vitamin D3 2000 I.E. | 1 Kapsel | Knochen, Immunsystem |
-| Doppelherz Vitamin C 1000 + D3 + Zink | 1 Tablette | Immunsystem, Antioxidantien |
-| K2 MK-7 | nach Packung | Calcium-Transport (noch kaufen) |
+### Morgens (zum Frühstück – mit Essen)
+| Supplement                            | Dosis        | Zweck                              |
+| ------------------------------------- | ------------ | ---------------------------------- |
+| ESN Ultrapure Kreatin                 | 5 g in 100–200 ml Wasser einrühren | Kraft + Muskelaufbau |
+| ESN Omega-3                           | 3 Kapseln (= 1200 mg EPA + 900 mg DHA) | Herz, Gehirn, Regeneration |
+| Doppelherz Vitamin D3 2000 I.E.       | 1 Kapsel     | Knochen, Immunsystem               |
+| Doppelherz Vitamin C 1000 + D3 + Zink | 1 Tablette   | Immunsystem, Antioxidantien        |
+| K2 MK-7                               | nach Packung | Calcium-Transport (noch kaufen)    |
 
 ### Pre-Workout (30 Min. vor Training)
-| Supplement | Hinweis |
-|------------|---------|
-| ESN Crank Pre-Workout | Nicht nach 14 Uhr nehmen (Koffein) |
+| Supplement | Dosis | Einnahme | Zweck |
+|------------|-------|----------|-------|
+| ESN Crank Pre-Workout | 19 g in 500 ml kaltem Wasser (200 mg Koffein) | Nicht nach 14 Uhr nehmen | Fokus, Pump, Ausdauer |
 
 ### Post-Workout
 | Supplement | Dosis |
@@ -33,10 +32,10 @@ status: aktiv
 - More Nutrition Protein Sahne
 
 ### Abends
-| Supplement | Hinweis |
-|------------|---------|
-| Magnesium | noch kaufen |
-| Ashwagandha KSM-66 | optional, noch kaufen |
+| Supplement | Dosis | Einnahme | Zweck |
+|------------|-------|----------|-------|
+| Magnesium Verla Plus | 1 Beutel (150 mg Mg + 300 mg Kalium + 80 mg Vit. C) | In ~150 ml Wasser auflösen, nach dem Abendessen | Muskelregeneration, Elektrolytbalance |
+| Lebepur Ashwagandha Bio | 2 Kapseln (= 1000 mg) | Zum Abendessen mit Wasser, unzerkaut | Stressreduktion, Schlafqualität, Erholung |
 
 ---
 
@@ -44,7 +43,7 @@ status: aktiv
 
 - [ ] K2 MK-7 (DM oder Rossmann)
 - [x] Magnesium ✅ 2026-03-29
-- [ ] Ashwagandha KSM-66 (optional)
+- [x] Ashwagandha KSM-66 ✅ 2026-04-09
 
 ---
 
