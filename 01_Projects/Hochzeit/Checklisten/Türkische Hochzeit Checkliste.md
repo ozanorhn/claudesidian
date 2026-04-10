@@ -37,10 +37,10 @@ Söz Kesme → Nişan (Verlobungsfeier) → Kına Gecesi → Nikah → Düğün
 - [ ] Einladungskarten drucken/versenden
 
 ### Organisation
-- [ ] Location für Nişan buchen (Saal oder Restaurant)
+- [x] Location für Nişan ✓ (Frau-Seite organisiert)
 - [ ] Catering planen
 - [ ] Fotograf / Videograf buchen
-- [ ] Gästeliste erstellen
+- [ ] Gästeliste erstellen (erst 2027 nötig)
 - [ ] Outfit / Anzug kaufen oder ausleihen
 - [ ] Braut-Outfit abstimmen (Nilüfer)
 
@@ -82,7 +82,7 @@ Söz Kesme → Nişan (Verlobungsfeier) → Kına Gecesi → Nikah → Düğün
 
 ## 6. Nikah (Standesamt / Eheschließung)
 
-- [ ] Standesamt Termin buchen (frühzeitig!)
+- [ ] Standesamt Termin buchen (Aug/Sep 2027 – ca. 1–2 Monate vorher)
 - [ ] Personalausweise & Dokumente bereit
 - [ ] Trauzeugen benennen (je 1 pro Seite)
 - [ ] Nikah-Outfit abstimmen
@@ -92,7 +92,7 @@ Söz Kesme → Nişan (Verlobungsfeier) → Kına Gecesi → Nikah → Düğün
 ## 7. Düğün (Hochzeitsfeier) – 02.10.2027
 
 ### Venue & Catering
-- [ ] Hochzeitssaal buchen *(Priorität: bis Ende 2026)*
+- [x] Hochzeitssaal ✓ gebucht
 - [ ] Catering-Angebote einholen
 - [ ] Menü planen (türkisch: Mezze, Hauptgericht, Baklava)
 - [ ] Hochzeitstorte bestellen
@@ -112,7 +112,7 @@ Söz Kesme → Nişan (Verlobungsfeier) → Kına Gecesi → Nikah → Düğün
 - [ ] Flitterwochen planen & buchen
 
 ### Dekoration & Details
-- [ ] Geldtasche / Goldmünzen-Zeremonie vorbereiten (Takı Töreni)
+- [x] Takı & Altın ✓ vorbereitet
 - [ ] Sash/Schärpe für Bräutigam
 - [ ] Tischkarten & Sitzplan
 - [ ] Hochzeitsgeschenke-Wunschliste (optional)
@@ -141,10 +141,12 @@ Söz Kesme → Nişan (Verlobungsfeier) → Kına Gecesi → Nikah → Düğün
 
 ## Nächste Schritte
 
-- [ ] Hochzeitssaal bis Ende 2026 buchen
-- [ ] Nişan-Location bis Juli 2026 buchen
+- [x] Hochzeitssaal ✓ gebucht
+- [x] Nişan-Location ✓ (Frau-Seite)
+- [ ] Gelin Bohçası einkaufen
 - [ ] Fotograf für Nişan buchen
-- [ ] Gästeliste (grob) erstellen
+- [ ] Gästeliste erstellen (erst 2027 nötig)
+- [ ] Standesamt Termin buchen (Aug/Sep 2027)
 
 ---
 *Verknüpft mit: [[../Hochzeit\|Hochzeit Projekt]] · [[../Budget/Hochzeit Budget\|Budget]]*

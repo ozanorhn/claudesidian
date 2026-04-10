@@ -6,14 +6,14 @@ kanban-plugin: board
 
 ## Offen
 
-- [ ] Gelin Bohçası einkaufen
-- [ ] Nişan-Location buchen (bis Juli 2026)
-- [ ] Fotograf für Nişan buchen
-- [ ] Gästeliste erstellen
+- [ ] Gästeliste erstellen (erst 2027 nötig)
+- [ ] Standesamt Termin buchen (Aug/Sep 2027)
 
 
 ## In Arbeit
 
+- [ ] Gelin Bohçası einkaufen
+- [ ] Fotograf für Nişan – Sedef kümmert sich (Option: Fotograf vom Antrag)
 - [ ] Türkische Hochzeit Checkliste durcharbeiten
 
 
@@ -24,8 +24,10 @@ kanban-plugin: board
 - [x] 400 € bezahlt (Dekoration + Fotograf)
 - [x] Anzahlung 50 € bezahlt
 - [x] Türkische Hochzeit Checkliste erstellt
-- [x] Hochzeitssaal buchen (bis Ende 2026)
+- [x] Hochzeitssaal buchen ✓ gebucht
 - [x] Gelin Bohçası Checkliste erstellt
+- [x] Nişan-Location ✓ (Frau-Seite organisiert)
+- [x] Takı & Altın ✓ vorbereitet
 
 
 

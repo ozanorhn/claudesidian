@@ -12,12 +12,12 @@ status: in-bearbeitung
 
 ## Kleidung & Wäsche
 
-- [ ] Gecelik / Pijama (Nachthemd / Schlafanzug – elegant, Satin oder Seide)
+- [ ] Gecelik / Pijama (Nachthemd / Schlafanzug – elegant, Satin oder Seide) hose lang
 - [ ] Sabahlık (Morgenmantel / Bademantel)
 - [ ] Terlik (Hausschuhe – passend zu Sabahlık)
 - [ ] Çorap seti (Strumpf-Set, mehrere Paare, gerne mit Spitze)
 - [ ] İç çamaşırı seti (Dessous-Set – elegant, Spitze oder Satin)
-- [ ] Ayakkabı (Absatzschuhe Weiß/Creme – für Verlobung/Hochzeit)
+- [ ] Ayakkabı (Absatzschuhe Weiß/Creme – für Verlobung/Hochzeit) 40
 
 ---
 
@@ -38,9 +38,9 @@ status: in-bearbeitung
 - [x] NIVEA Care Shower Peach & Apricot Seed Oil
 - [x] Labello Sun Protect 24h SPF 50
 - [ ] Parfüm (hochwertig, nach Geschmack der Braut)
-- [ ] Parfüm Körperspray / Körperlotion (passend zum Parfüm)
+- [ ] Parfüm Körperspray / Körperlotion (passend zum Parfüm) Vanille körpelotion
 - [ ] Clinique Creme
-- [ ] Augencreme
+- [ ] Augencreme clinique
 - [ ] Deodorant
 - [ ] Lif (Peeling-Schwamm / Duschschwamm)
 

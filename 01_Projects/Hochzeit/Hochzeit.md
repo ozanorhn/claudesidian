@@ -45,11 +45,13 @@ Türkische Hochzeit – mit allen Traditionen:
 
 - [x] Heiratsantrag vorbereiten (05.04.2026) ✓ – Sie hat Ja gesagt!
 - [x] 400 € für Antrag bezahlen (vor 05.04.2026)
-- [ ] Nach dem Antrag: Gelin Bohçası einkaufen
-- [ ] Nişan-Location buchen (bis Juli 2026)
-- [ ] Fotograf für Nişan buchen
-- [ ] Hochzeitssaal buchen (bis Ende 2026)
-- [ ] Gästeliste erstellen
+- [x] Nişan-Location ✓ (wird von Frau-Seite organisiert)
+- [x] Hochzeitssaal ✓ gebucht
+- [x] Takı & Altın ✓ vorbereitet
+- [ ] Gelin Bohçası einkaufen (in Bearbeitung)
+- [ ] Fotograf für Nişan – Sedef kümmert sich (Option: Fotograf vom Antrag)
+- [ ] Gästeliste erstellen (erst 2027 nötig)
+- [ ] Standesamt Termin buchen (Aug/Sep 2027, ca. 1–2 Monate vor Hochzeit)
 
 ## Google Tasks
 
