@@ -23,10 +23,11 @@ Das sind ~**24 Wochen** ab 30.03.2026.
 | Gewicht | 94 kg | 30.03.2026 |
 | Größe | 177 cm | – |
 | Körperfett | – | – |
-| Brust | – | – |
-| Taille | – | – |
-| Hüfte | – | – |
-| Arme (L/R) | – | – |
+| Brust | 102 cm | 10.04.2026 |
+| Taille (Bauchnabel) | 105 cm | 10.04.2026 |
+| Hüfte / Po | 107 cm | 10.04.2026 |
+| Arme (L/R) | 35 cm / 35 cm | 10.04.2026 |
+| Oberschenkel | 55 cm | 10.04.2026 |
 
 ## Ernährungsziel
 

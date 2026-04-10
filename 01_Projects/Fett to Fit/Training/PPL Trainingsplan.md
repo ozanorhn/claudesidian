@@ -119,17 +119,39 @@ ende: 2026-05-24
 
 ---
 
-## Alternativen
+## Alternativen (bei besetzten Geräten)
 
-| Hauptübung | Alternative |
-|------------|-------------|
-| LH-Schrägbankdrücken | KH-Schrägbankdrücken, Brustpresse schräg |
-| Brustpresse | LH-/KH-Bankdrücken, PushUps mit Gewicht |
-| Butterfly | Butterfly am Kabelzug, KH-Flys |
-| KH-Schulterdrücken | Schulterdrücken-Maschine, Military-Press |
-| Latzug | Klimmzüge, Überzüge |
-| T-Bar Rudern | LH-Rudern, Seal Rows |
-| Squats | Goblet Squat, Front Squats |
+> Verfügbare Geräte: Beinpresse · Brustpresse · Latzug · Butterfly · Trizepsmaschine · Heavy-Duty-Rack · Langhantelbank · Hackenschmidt · Kabelzug · Kurzhanteln
+
+### Push
+
+| Hauptübung | Alternative 1 | Alternative 2 |
+|------------|---------------|---------------|
+| LH-Schrägbankdrücken | KH-Schrägbankdrücken (Kurzhanteln) | LH-Flachbankdrücken (Langhantelbank) |
+| Brustpresse | LH-Bankdrücken (Langhantelbank) | KH-Bankdrücken (Kurzhanteln) |
+| Butterfly | Kabelzug-Flys (Kabelzug) | KH-Flys auf Langhantelbank |
+| KH-Schulterdrücken | LH-Military-Press (Heavy-Duty-Rack) | Kabelzug Schulterdrücken |
+| Seitheben am Kabelzug | KH-Seitheben stehend | – |
+| Trizeps Pushdown | Trizepsmaschine | KH-Trizepsdrücken über Kopf |
+| Einarmige Kickbacks am Kabelturm | KH-Kickbacks (Kurzhanteln) | – |
+
+### Pull
+
+| Hauptübung | Alternative 1 | Alternative 2 |
+|------------|---------------|---------------|
+| Latzug | KH-Pullover auf Langhantelbank | Kabelzug Pulldown (Kabelzug) |
+| T-Bar Rudern | LH-Rudern (Langhantelbank) | Kabelrudern eng (Kabelzug) |
+| Kabelrudern eng | LH-Rudern (Langhantelbank) | KH-Einarmrudern |
+| Reverse Butterfly | Kabelzug Reverse Flys | KH Rear Delt Fly gebeugt |
+| Bizepsmaschine | KH-Bizepscurls | Kabelzug Curls |
+
+### Legs
+
+| Hauptübung | Alternative 1 | Alternative 2 |
+|------------|---------------|---------------|
+| Squats (Heavy-Duty-Rack) | Hackenschmidt | KH-Goblet Squat |
+| Beinpresse | Hackenschmidt | KH-Goblet Squat |
+| Wadenheben stehend | KH-Wadenheben einbeinig | – |
 
 ---
 
